@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KelvinYang0320/react-project.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/KelvinYang0320/react-project.git/static/js/main.a4af3664.chunk.js",
+    "main.js.map": "/KelvinYang0320/react-project.git/static/js/main.a4af3664.chunk.js.map",
+    "runtime-main.js": "/KelvinYang0320/react-project.git/static/js/runtime-main.d733dcce.js",
+    "runtime-main.js.map": "/KelvinYang0320/react-project.git/static/js/runtime-main.d733dcce.js.map",
+    "static/js/2.7b217f77.chunk.js": "/KelvinYang0320/react-project.git/static/js/2.7b217f77.chunk.js",
+    "static/js/2.7b217f77.chunk.js.map": "/KelvinYang0320/react-project.git/static/js/2.7b217f77.chunk.js.map",
+    "index.html": "/KelvinYang0320/react-project.git/index.html",
+    "precache-manifest.9efc1b6aaeec39fce6f754d06dfa9a12.js": "/KelvinYang0320/react-project.git/precache-manifest.9efc1b6aaeec39fce6f754d06dfa9a12.js",
+    "service-worker.js": "/KelvinYang0320/react-project.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/KelvinYang0320/react-project.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7b217f77.chunk.js.LICENSE.txt": "/KelvinYang0320/react-project.git/static/js/2.7b217f77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d733dcce.js",
+    "static/js/2.7b217f77.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a4af3664.chunk.js"
+  ]
+}
