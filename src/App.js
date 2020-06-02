@@ -1,7 +1,12 @@
-import React from 'react';
-//import logo from './logo.svg';
+import React, { Component } from 'react';
+import Navigation from './components/Navigation'
+import Masthead from './components/Masthead'
+import Portfolio from './components/Portfolio'
+import About from './components/About'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
 import './App.css';
-
+/*
 class Hello extends React.Component{
   render(){
     return(
@@ -50,6 +55,24 @@ class App extends React.Component {
   componentDidMount(){
     console.log('[componentDidMount]');
     this.setState({myState:'my second state' });
+  }
+}
+
+export default App;
+*/
+
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <Navigation/>
+        <Masthead/>
+        <Portfolio/>
+        <About/>
+        <Contact/>
+        <Footer/>
+      </div>
+    );
   }
 }
 
